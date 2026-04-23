@@ -1,0 +1,8 @@
+react-portfolio/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ App.jsx
+│  ├─ index.jsx
+│  └─ styles.css
+├─ package.json
